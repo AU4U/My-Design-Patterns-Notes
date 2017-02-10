@@ -10,3 +10,5 @@
 6、合成复用原则（Composite Reuse Principle）
 # Factory Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/factory_pattern_uml_diagram.jpg)
+# Abstract Factory Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/abstractfactory_pattern_uml_diagram.jpg)
