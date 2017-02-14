@@ -62,3 +62,5 @@ public class Singleton {
 ```
 # Builder Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/builder_pattern_uml_diagram.jpg)
+# Prototype Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/prototype_pattern_uml_diagram.jpg)
