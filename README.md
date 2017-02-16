@@ -64,3 +64,9 @@ public class Singleton {
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/builder_pattern_uml_diagram.jpg)
 # Prototype Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/prototype_pattern_uml_diagram.jpg)
+
+# Adapter Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/adapter_pattern_uml_diagram.jpg)
+
+# Bridge
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/bridge_pattern_uml_diagram.jpg)
