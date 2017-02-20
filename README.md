@@ -70,3 +70,6 @@ public class Singleton {
 
 # Bridge
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/bridge_pattern_uml_diagram.jpg)
+
+# Filter Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/filter_pattern_uml_diagram.jpg)
