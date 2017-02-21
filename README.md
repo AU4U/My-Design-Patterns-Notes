@@ -73,3 +73,5 @@ public class Singleton {
 
 # Filter Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/filter_pattern_uml_diagram.jpg)
+# CompositePatternDemo
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/composite_pattern_uml_diagram.jpg)
