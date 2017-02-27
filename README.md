@@ -83,3 +83,6 @@ public class Singleton {
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/facade_pattern_uml_diagram.jpg)
 # Flyweight Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/flyweight_pattern_uml_diagram.jpg)
+
+# Proxy Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/proxy_pattern_uml_diagram.jpg)
