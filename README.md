@@ -86,3 +86,5 @@ public class Singleton {
 
 # Proxy Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/proxy_pattern_uml_diagram.jpg)
+# Chain of Responsibility Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/chain_pattern_uml_diagram.jpg)
