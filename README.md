@@ -90,3 +90,9 @@ public class Singleton {
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/chain_pattern_uml_diagram.jpg)
 # Command Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/command_pattern_uml_diagram.jpg)
+# Interpreter Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/interpreter_pattern_uml_diagram.jpg)
+# Iterator Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/iterator_pattern_uml_diagram.jpg)
+# Mediator Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/mediator_pattern_uml_diagram.jpg)
