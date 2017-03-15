@@ -95,4 +95,6 @@ public class Singleton {
 # Iterator Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/iterator_pattern_uml_diagram.jpg)
 # Mediator Pattern
-![avatar](http://www.runoob.com/wp-content/uploads/2014/08/mediator_pattern_uml_diagram.jpg)
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/mediator_pattern_uml_diagram.jpg).
+# Memento Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/memento_pattern_uml_diagram.jpg)
