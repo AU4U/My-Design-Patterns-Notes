@@ -98,3 +98,5 @@ public class Singleton {
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/mediator_pattern_uml_diagram.jpg).
 # Memento Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/memento_pattern_uml_diagram.jpg)
+# Observer Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/observer_pattern_uml_diagram.jpg)
