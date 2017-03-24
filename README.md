@@ -105,3 +105,5 @@ public class Singleton {
 
 # Null Object Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/null_pattern_uml_diagram.jpg)
+# Strategy Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/strategy_pattern_uml_diagram.jpg)
