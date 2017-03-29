@@ -108,4 +108,6 @@ public class Singleton {
 # Strategy Pattern
 ![avatar](http://www.runoob.com/wp-content/uploads/2014/08/strategy_pattern_uml_diagram.jpg)
 # Template Pattern
-![avatar](http://www.runoob.com/wp-content/uploads/2014/08/template_pattern_uml_diagram.jpg)
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/visitor_pattern_uml_diagram.jpg)(http://www.runoob.com/wp-content/uploads/2014/08/template_pattern_uml_diagram.jpg)
+# Visitor Pattern
+![avatar](http://www.runoob.com/wp-content/uploads/2014/08/visitor_pattern_uml_diagram.jpg)
